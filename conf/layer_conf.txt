@@ -1,0 +1,13 @@
+layerNum = 2
+
+[baselayer]
+layerId		= 1
+inputs		= 0
+modelType	= 1
+[end]
+
+[baselayer]
+layerId		= 2
+inputs		= 1
+modelType	= 1
+[end]
